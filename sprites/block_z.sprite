@@ -1,0 +1,19 @@
+# Z-piece block — red
+name: block_z
+
+palette:
+  . transparent
+  k #602020
+  h #ffa0a0
+  m #f05050
+  d #a03030
+
+pixels:
+  kkkkkkkk
+  khhhhhhk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  kddddddk
+  kkkkkkkk

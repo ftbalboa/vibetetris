@@ -1,0 +1,14 @@
+# Move piece — subtle click
+name: move
+
+wave: square
+duty: 12
+
+envelope:
+  attack   1ms
+  decay    5ms
+  sustain  0.0
+  release  5ms
+
+steps:
+  A5  15ms

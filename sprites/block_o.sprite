@@ -1,0 +1,19 @@
+# O-piece block — yellow
+name: block_o
+
+palette:
+  . transparent
+  k #605800
+  h #ffffa0
+  m #f5e642
+  d #b0a020
+
+pixels:
+  kkkkkkkk
+  khhhhhhk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  kddddddk
+  kkkkkkkk

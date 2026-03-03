@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  font-family: monospace;
+}
+
+#game-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#game-canvas {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}

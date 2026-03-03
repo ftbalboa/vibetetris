@@ -1,0 +1,15 @@
+# Lock piece — clunk
+name: lock
+
+wave: square
+duty: 50
+
+envelope:
+  attack   1ms
+  decay    15ms
+  sustain  0.2
+  release  30ms
+
+steps:
+  G3  20ms
+  E3  25ms

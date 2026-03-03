@@ -1,0 +1,128 @@
+# Theme A — Loopable chiptune BGM
+name: theme_a
+bpm: 140
+rows_per_beat: 4
+
+channel: lead
+  wave: square
+  duty: 50
+  volume: 0.7
+  envelope:
+    attack   5ms
+    decay    20ms
+    sustain  0.6
+    release  40ms
+
+channel: harmony
+  wave: square
+  duty: 25
+  volume: 0.4
+  envelope:
+    attack   5ms
+    decay    20ms
+    sustain  0.5
+    release  40ms
+
+channel: bass
+  wave: triangle
+  volume: 0.6
+  envelope:
+    attack   5ms
+    decay    10ms
+    sustain  0.8
+    release  30ms
+
+channel: drums
+  wave: noise
+  volume: 0.35
+  envelope:
+    attack   2ms
+    decay    30ms
+    sustain  0.0
+    release  15ms
+
+pattern: verse1
+  lead      | harmony   | bass      | drums
+  E5        | C4        | C3        | noise
+  ...       | ...       | ...       | ---
+  E5        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  B4        | G3        | G2        | noise
+  ...       | ...       | ...       | ---
+  C5        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  D5        | A3        | A2        | noise
+  ...       | ...       | ...       | ---
+  C5        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  B4        | E3        | E2        | noise
+  ...       | ...       | ...       | ---
+  ---       | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+
+pattern: verse2
+  lead      | harmony   | bass      | drums
+  A4        | F3        | F2        | noise
+  ...       | ...       | ...       | ---
+  ---       | ...       | ...       | noise
+  A4        | ...       | ...       | ---
+  C5        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  ---       | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  A4        | E3        | E2        | noise
+  ...       | ...       | ...       | ---
+  G4        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  E4        | C3        | C2        | noise
+  ...       | ...       | ...       | ---
+  ---       | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+
+pattern: bridge
+  lead      | harmony   | bass      | drums
+  F5        | D4        | D3        | noise
+  ...       | ...       | ...       | ---
+  E5        | ...       | ...       | noise
+  D5        | ...       | ...       | ---
+  E5        | C4        | C3        | noise
+  ...       | ...       | ...       | ---
+  C5        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  D5        | B3        | B2        | noise
+  ...       | ...       | ...       | ---
+  E5        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  C5        | A3        | A2        | noise
+  ...       | ...       | ...       | ---
+  ---       | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+
+pattern: verse3
+  lead      | harmony   | bass      | drums
+  B4        | G3        | G2        | noise
+  ...       | ...       | ...       | ---
+  C5        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  D5        | A3        | A2        | noise
+  ...       | ...       | ...       | ---
+  E5        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  C5        | F3        | F2        | noise
+  ...       | ...       | ...       | ---
+  A4        | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+  G#4       | E3        | E2        | noise
+  ...       | ...       | ...       | ---
+  ---       | ...       | ...       | noise
+  ...       | ...       | ...       | ---
+
+song:
+  verse1
+  verse2
+  verse1
+  verse2
+  bridge
+  verse3
+  bridge
+  verse1

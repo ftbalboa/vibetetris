@@ -1,0 +1,12 @@
+{
+  "name": "vibetetris",
+  "version": "0.1.0",
+  "description": "Tetris web game — just bytes, zero dependencies",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "build:sprites": "node scripts/build.js sprites",
+    "build:audio": "node scripts/build.js audio"
+  },
+  "keywords": ["tetris", "game", "pixel-art", "chiptune", "retro"],
+  "license": "MIT"
+}

@@ -1,0 +1,19 @@
+# T-piece block — purple
+name: block_t
+
+palette:
+  . transparent
+  k #502060
+  h #e0a0ff
+  m #c850f0
+  d #8030a0
+
+pixels:
+  kkkkkkkk
+  khhhhhhk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  kddddddk
+  kkkkkkkk

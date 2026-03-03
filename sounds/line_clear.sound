@@ -1,0 +1,17 @@
+# Line clear — ascending sweep
+name: line_clear
+
+wave: square
+duty: 25
+
+envelope:
+  attack   2ms
+  decay    20ms
+  sustain  0.6
+  release  60ms
+
+steps:
+  C5  30ms
+  E5  30ms
+  G5  30ms
+  C6  50ms

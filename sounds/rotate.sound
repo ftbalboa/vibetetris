@@ -1,0 +1,15 @@
+# Rotate piece — bright blip
+name: rotate
+
+wave: square
+duty: 25
+
+envelope:
+  attack   1ms
+  decay    10ms
+  sustain  0.5
+  release  20ms
+
+steps:
+  E5  20ms
+  G5  30ms

@@ -1,0 +1,20 @@
+# VIBETETRIS logo
+name: logo
+
+palette:
+  . transparent
+  c #00e5e5
+  p #c850f0
+  r #f05050
+  g #50e850
+  o #f0a030
+  b #5050f0
+  y #f5e642
+  w #ffffff
+
+pixels:
+  w...w.w.www.www.www.www.www.www.w.www
+  w...w.w.w...w.w.w...w.....w...w.w.w.
+  w...w.w.ww..www.ww..w.....w...ww..w.
+  w.w.w.w.w...w.w.w...w.....w...w.w.w.
+  .w.w..w.www.w.w.www.w.....w...w.w.ww

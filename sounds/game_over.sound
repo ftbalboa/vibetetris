@@ -1,0 +1,18 @@
+# Game over — descending tone
+name: game_over
+
+wave: square
+duty: 50
+
+envelope:
+  attack   5ms
+  decay    30ms
+  sustain  0.5
+  release  200ms
+
+steps:
+  G4  80ms
+  E4  80ms
+  C4  100ms
+  G3  120ms
+  C3  200ms fx:vibrato 4 0.5

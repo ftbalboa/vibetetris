@@ -1,0 +1,15 @@
+# Hard drop — impact thud
+name: hard_drop
+
+wave: noise
+volume: 0.8
+
+envelope:
+  attack   1ms
+  decay    30ms
+  sustain  0.0
+  release  20ms
+
+steps:
+  400hz  20ms fx:slide 100hz
+  100hz  30ms

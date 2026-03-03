@@ -1,0 +1,19 @@
+# L-piece block — orange
+name: block_l
+
+palette:
+  . transparent
+  k #604010
+  h #ffd080
+  m #f0a030
+  d #a07020
+
+pixels:
+  kkkkkkkk
+  khhhhhhk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  kddddddk
+  kkkkkkkk

@@ -1,0 +1,19 @@
+# I-piece block — cyan
+name: block_i
+
+palette:
+  . transparent
+  k #006060
+  h #80ffff
+  m #00e5e5
+  d #009a9a
+
+pixels:
+  kkkkkkkk
+  khhhhhhk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  kddddddk
+  kkkkkkkk

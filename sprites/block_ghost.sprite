@@ -1,0 +1,17 @@
+# Ghost piece block — gray outline
+name: block_ghost
+
+palette:
+  . transparent
+  k #808080
+  m #a0a0a0
+
+pixels:
+  kkkkkkkk
+  k......k
+  k.mmmm.k
+  k.mmmm.k
+  k.mmmm.k
+  k.mmmm.k
+  k......k
+  kkkkkkkk

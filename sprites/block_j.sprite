@@ -1,0 +1,19 @@
+# J-piece block — blue
+name: block_j
+
+palette:
+  . transparent
+  k #202060
+  h #a0a0ff
+  m #5050f0
+  d #3030a0
+
+pixels:
+  kkkkkkkk
+  khhhhhhk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  kddddddk
+  kkkkkkkk

@@ -1,0 +1,13 @@
+# Soft drop — gentle tick
+name: soft_drop
+
+wave: triangle
+
+envelope:
+  attack   1ms
+  decay    8ms
+  sustain  0.0
+  release  5ms
+
+steps:
+  C4  20ms

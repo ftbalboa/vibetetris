@@ -1,0 +1,19 @@
+# Level up — rising arpeggio
+name: level_up
+
+wave: square
+duty: 50
+
+envelope:
+  attack   2ms
+  decay    20ms
+  sustain  0.6
+  release  80ms
+
+steps:
+  C4  40ms
+  E4  40ms
+  G4  40ms
+  C5  50ms fx:vibrato 6 0.3
+  E5  50ms fx:vibrato 6 0.3
+  C6  70ms fx:vibrato 6 0.4

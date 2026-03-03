@@ -1,0 +1,19 @@
+# Tetris (4 lines) — fanfare with vibrato
+name: tetris_clear
+
+wave: square
+duty: 50
+
+envelope:
+  attack   2ms
+  decay    15ms
+  sustain  0.7
+  release  80ms
+
+steps:
+  C5  40ms
+  E5  40ms
+  G5  40ms
+  C6  60ms fx:vibrato 8 0.3
+  E6  60ms fx:vibrato 8 0.3
+  C7  80ms fx:vibrato 6 0.4

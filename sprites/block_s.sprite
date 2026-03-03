@@ -1,0 +1,19 @@
+# S-piece block — green
+name: block_s
+
+palette:
+  . transparent
+  k #205020
+  h #a0ffa0
+  m #50e850
+  d #308030
+
+pixels:
+  kkkkkkkk
+  khhhhhhk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  khmmmmdk
+  kddddddk
+  kkkkkkkk
