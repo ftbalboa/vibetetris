@@ -1,0 +1,29 @@
+name: vibetetris_banner
+
+palette:
+  . transparent
+  b #0d1117
+  c #00e5e5
+  r #f05050
+  o #f0a030
+  y #f5e642
+  g #50e850
+  p #c850f0
+  j #5050f0
+
+pixels:
+  ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  bbbbbcbbbcbcccccbccccbbbcccbcccccbcccbcccccbccccbbcccbbcccbbbbbbbbb
+  bbbbbcbbbcbcbbbbbcbbbcbcbbbbbbcbbbcbbbbbbcbbcbbbcbcbbbbcbbbcbbbbbbb
+  bbbbbcbbbcbcbbbbbcbbbcbcbbbbbbcbbbcbbbbbbcbbcbbbcbcbbbbcbbbbbbbbbbb
+  bbbbbcbcbcbcccbbbccccbbcbbbbbbcbbbcccbbbbcbbccccbbcccbbbcccbbbbbbbb
+  bbbbbcbcbcbcbbbbbcbbbcbcbbbbbbcbbbcbbbbbbcbbcbcbbbbbcbbbbbcbbbbbbbb
+  bbbbbbcbcbbcbbbbbcbbbcbcbbbbbbcbbbcbbbbbbcbbcbbcbcbbbcbcbbbcbbbbbbb
+  bbbbbbcbcbbcccccbccccbbbcccbbbcbbbcccbbbbcbbcbbbcbcccbbbcccbbbbbbbb
+  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  cccbrrrbooobyyybjjjbgggbpppbcccbrrrbooobyyybjjjbgggbpppbcccbrrrboo
+  cccbrrrbooobyyybjjjbgggbpppbcccbrrrbooobyyybjjjbgggbpppbcccbrrrboo
+  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+  ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc

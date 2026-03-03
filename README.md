@@ -1,6 +1,8 @@
-# vibetetris
+<p align="center">
+  <img src="assets/banner.png" alt="vibetetris" width="488">
+</p>
 
-Tetris web game — just bytes, zero dependencies.
+<p align="center">Tetris web game — just bytes, zero dependencies.</p>
 
 Part of the Eterea ecosystem: **pixelyuna** (graphics) + **soundtidus** (audio) + **vibetetris** (game).
 
