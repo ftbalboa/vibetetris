@@ -1,0 +1,70 @@
+{
+  "name": "theme_a",
+  "duration": 13.814285714285715,
+  "sampleRate": 44100,
+  "samples": 609210,
+  "bpm": 140,
+  "rowsPerBeat": 4,
+  "channels": {
+    "lead": {
+      "wave": "square",
+      "duty": 50,
+      "volume": 0.7,
+      "envelope": {
+        "attack": 0.005,
+        "decay": 0.02,
+        "sustain": 0.6,
+        "release": 0.04
+      }
+    },
+    "harmony": {
+      "wave": "square",
+      "duty": 25,
+      "volume": 0.4,
+      "envelope": {
+        "attack": 0.005,
+        "decay": 0.02,
+        "sustain": 0.5,
+        "release": 0.04
+      }
+    },
+    "bass": {
+      "wave": "triangle",
+      "duty": 50,
+      "volume": 0.6,
+      "envelope": {
+        "attack": 0.005,
+        "decay": 0.01,
+        "sustain": 0.8,
+        "release": 0.03
+      }
+    },
+    "drums": {
+      "wave": "noise",
+      "duty": 50,
+      "volume": 0.35,
+      "envelope": {
+        "attack": 0.002,
+        "decay": 0.03,
+        "sustain": 0,
+        "release": 0.015
+      }
+    }
+  },
+  "patterns": [
+    "verse1",
+    "verse2",
+    "bridge",
+    "verse3"
+  ],
+  "song": [
+    "verse1",
+    "verse2",
+    "verse1",
+    "verse2",
+    "bridge",
+    "verse3",
+    "bridge",
+    "verse1"
+  ]
+}

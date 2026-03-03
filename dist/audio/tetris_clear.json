@@ -1,0 +1,61 @@
+{
+  "name": "tetris_clear",
+  "duration": 0.4,
+  "sampleRate": 44100,
+  "samples": 17640,
+  "wave": "square",
+  "duty": 50,
+  "envelope": {
+    "attack": 0.002,
+    "decay": 0.015,
+    "sustain": 0.7,
+    "release": 0.08
+  },
+  "steps": [
+    {
+      "note": "C5",
+      "duration": 0.04
+    },
+    {
+      "note": "E5",
+      "duration": 0.04
+    },
+    {
+      "note": "G5",
+      "duration": 0.04
+    },
+    {
+      "note": "C6",
+      "duration": 0.06,
+      "effects": [
+        {
+          "type": "vibrato",
+          "rate": 8,
+          "depth": 0.3
+        }
+      ]
+    },
+    {
+      "note": "E6",
+      "duration": 0.06,
+      "effects": [
+        {
+          "type": "vibrato",
+          "rate": 8,
+          "depth": 0.3
+        }
+      ]
+    },
+    {
+      "note": "C7",
+      "duration": 0.08,
+      "effects": [
+        {
+          "type": "vibrato",
+          "rate": 6,
+          "depth": 0.4
+        }
+      ]
+    }
+  ]
+}

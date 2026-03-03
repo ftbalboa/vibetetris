@@ -1,0 +1,20 @@
+{
+  "name": "soft_drop",
+  "duration": 0.025,
+  "sampleRate": 44100,
+  "samples": 1103,
+  "wave": "triangle",
+  "duty": 50,
+  "envelope": {
+    "attack": 0.001,
+    "decay": 0.008,
+    "sustain": 0,
+    "release": 0.005
+  },
+  "steps": [
+    {
+      "note": "C4",
+      "duration": 0.02
+    }
+  ]
+}

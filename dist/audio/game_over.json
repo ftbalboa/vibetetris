@@ -1,0 +1,43 @@
+{
+  "name": "game_over",
+  "duration": 0.78,
+  "sampleRate": 44100,
+  "samples": 34398,
+  "wave": "square",
+  "duty": 50,
+  "envelope": {
+    "attack": 0.005,
+    "decay": 0.03,
+    "sustain": 0.5,
+    "release": 0.2
+  },
+  "steps": [
+    {
+      "note": "G4",
+      "duration": 0.08
+    },
+    {
+      "note": "E4",
+      "duration": 0.08
+    },
+    {
+      "note": "C4",
+      "duration": 0.1
+    },
+    {
+      "note": "G3",
+      "duration": 0.12
+    },
+    {
+      "note": "C3",
+      "duration": 0.2,
+      "effects": [
+        {
+          "type": "vibrato",
+          "rate": 4,
+          "depth": 0.5
+        }
+      ]
+    }
+  ]
+}

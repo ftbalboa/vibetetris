@@ -1,0 +1,32 @@
+{
+  "name": "line_clear",
+  "duration": 0.2,
+  "sampleRate": 44100,
+  "samples": 8820,
+  "wave": "square",
+  "duty": 25,
+  "envelope": {
+    "attack": 0.002,
+    "decay": 0.02,
+    "sustain": 0.6,
+    "release": 0.06
+  },
+  "steps": [
+    {
+      "note": "C5",
+      "duration": 0.03
+    },
+    {
+      "note": "E5",
+      "duration": 0.03
+    },
+    {
+      "note": "G5",
+      "duration": 0.03
+    },
+    {
+      "note": "C6",
+      "duration": 0.05
+    }
+  ]
+}

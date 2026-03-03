@@ -1,0 +1,20 @@
+{
+  "name": "move",
+  "duration": 0.02,
+  "sampleRate": 44100,
+  "samples": 882,
+  "wave": "square",
+  "duty": 12,
+  "envelope": {
+    "attack": 0.001,
+    "decay": 0.005,
+    "sustain": 0,
+    "release": 0.005
+  },
+  "steps": [
+    {
+      "note": "A5",
+      "duration": 0.015
+    }
+  ]
+}

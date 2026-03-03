@@ -1,0 +1,24 @@
+{
+  "name": "lock",
+  "duration": 0.075,
+  "sampleRate": 44100,
+  "samples": 3308,
+  "wave": "square",
+  "duty": 50,
+  "envelope": {
+    "attack": 0.001,
+    "decay": 0.015,
+    "sustain": 0.2,
+    "release": 0.03
+  },
+  "steps": [
+    {
+      "note": "G3",
+      "duration": 0.02
+    },
+    {
+      "note": "E3",
+      "duration": 0.025
+    }
+  ]
+}

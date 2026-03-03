@@ -1,0 +1,61 @@
+{
+  "name": "level_up",
+  "duration": 0.37,
+  "sampleRate": 44100,
+  "samples": 16317,
+  "wave": "square",
+  "duty": 50,
+  "envelope": {
+    "attack": 0.002,
+    "decay": 0.02,
+    "sustain": 0.6,
+    "release": 0.08
+  },
+  "steps": [
+    {
+      "note": "C4",
+      "duration": 0.04
+    },
+    {
+      "note": "E4",
+      "duration": 0.04
+    },
+    {
+      "note": "G4",
+      "duration": 0.04
+    },
+    {
+      "note": "C5",
+      "duration": 0.05,
+      "effects": [
+        {
+          "type": "vibrato",
+          "rate": 6,
+          "depth": 0.3
+        }
+      ]
+    },
+    {
+      "note": "E5",
+      "duration": 0.05,
+      "effects": [
+        {
+          "type": "vibrato",
+          "rate": 6,
+          "depth": 0.3
+        }
+      ]
+    },
+    {
+      "note": "C6",
+      "duration": 0.07,
+      "effects": [
+        {
+          "type": "vibrato",
+          "rate": 6,
+          "depth": 0.4
+        }
+      ]
+    }
+  ]
+}
