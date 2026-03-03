@@ -4,6 +4,10 @@
 
 <p align="center">Tetris web game — just bytes, zero dependencies.</p>
 
+<p align="center">
+  <a href="https://ftbalboa.github.io/vibetetris/">Play it here</a>
+</p>
+
 Part of the Eterea ecosystem: **pixelyuna** (graphics) + **soundtidus** (audio) + **vibetetris** (game).
 
 ## Play
